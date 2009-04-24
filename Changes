@@ -1,0 +1,8 @@
+TODO:
+    - Handle immutable classes
+    - Handle many-to-many
+    - Make sure with $artist->cds( ... )->slice( 0 )->artist that $artist and ->artist are the same
+
+0.001 Thursday April 23 16:56:48 PDT 2009:
+    - Initial release (wonder what this button does...)
+
